@@ -17,8 +17,8 @@ file_list = ["/well/got2d/jason/reference/islet/stretch_enhancers/islet_stretch_
              "/well/got2d/jason/reference/islet/atac_peaks/oxford_islet_atac_macs2_n17.bed",
              "/well/got2d/jason/reference/islet/chromatin_states/islet_chromatin_states15_fullnames.bed",
              "/well/got2d/jason/reference/chromatin_segmentation/varshney_2016/bed_files/complete_varshney_chromHMM_states.bed",
-             "/well/got2d/jason/reference/islet_development_Wang2015/complete_wang2015_chip_peaks.bed",
-             "/well/got2d/jason/reference/epigenome_roadmap/complete_erm_chromHMM_18states_core_K27ac.bed"]
+             "/well/got2d/jason/reference/islet_development_Wang2015/complete_wang2015_chip_peaks.bed"]#,
+             #"/well/got2d/jason/reference/epigenome_roadmap/complete_erm_chromHMM_18states_core_K27ac.bed"]
 
 out_name = cur_dir + "temp_input.bed"
 
